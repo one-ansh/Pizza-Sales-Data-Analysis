@@ -51,10 +51,10 @@ Analysis Highlights & Insights
 
 Based on the analysis, some key insights include:
 
- 1.The **Total Revenue** stands at [Your Calculated Total Revenue], with an **Average Order Value** of [Your Calculated AOV], indicating [your interpretation, e.g., a healthy average transaction size].
- 2.Weekends and evenings (specifically [mention hours, e.g., 6 PM - 9 PM]) show the highest order volumes, suggesting these are critical periods for staffing and promotions.
- 3.Pizzas in the '[Top Category]' category and '[Most Popular Size]' size are the most popular, driving a significant portion of sales. This suggests opportunities for upselling or focusing marketing on these categories.
- 4.'[Top Pizza Name]' is consistently the best-selling pizza, while '[Bottom Pizza Name]' is among the least popular, prompting a review of its menu placement or recipe.
+ 1.The **Total Revenue** stands at $817860.05, with an **Average Order Value** of $38.38, indicating good sales overall.
+ 2.Weekends and evenings  show the highest order volumes, suggesting these are critical periods for staffing and promotions.
+ 3.Pizzas in the Classic category and Large size are the most popular, driving a significant portion of sales. This suggests opportunities for upselling or focusing marketing on these categories.
+ 4.'Classic Deluxe Pizza' is consistently the best-selling pizza, while 'Brie Carre Pizza' is among the least popular, prompting a review of its menu placement or recipe.
 
 
 
